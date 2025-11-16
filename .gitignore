@@ -1,0 +1,155 @@
+# Virtual environment
+venv/
+.venv/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pytest cache
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+EOFcat > .gitignore << 'EOF'
+# Virtual environment
+venv/
+.venv/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pytest cache
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+EOFcat > .gitignore << 'EOF'
+# Virtual environment
+venv/
+.venv/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pytest cache
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+EOFcat > .gitignore << 'EOF'
+# Virtual environment
+venv/
+.venv/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pytest cache
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+EOFcat > .gitignore << 'EOF'
+# Virtual environment
+venv/
+.venv/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pytest cache
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+EOFcat > .gitignore << 'EOF'
+# Virtual environment
+venv/
+.venv/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pytest cache
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

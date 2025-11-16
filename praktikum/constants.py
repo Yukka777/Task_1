@@ -1,0 +1,7 @@
+﻿# Константы для ингридиентов бургера
+INGREDIENT_TYPE_SAUCE = 'SAUCE'
+INGREDIENT_TYPE_FILLING = 'FILLING'
+
+# Цена по умолчанию
+DEFAULT_BUN_PRICE = 100
+DEFAULT_INGREDIENT_PRICE = 50
